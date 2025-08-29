@@ -25,7 +25,7 @@ python smi.py
 
 ## Acknowledgements
 - [Spotify (for Developers)](https://developer.spotify.com/) - For accessing contents in Spotify with API.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - For installing musics.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - For installing music from YouTube.
 - [PyYAML](https://github.com/yaml/pyyaml) - For YAML file support.
 
 ## License
