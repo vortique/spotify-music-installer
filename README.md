@@ -1,7 +1,7 @@
 # spotify-music-installer 🎵
 > Another project born out of necessity.
 
-A project that installs musics from spotify.
+A CLI project that installs music from spotify.
 
 ## Installation
 
@@ -20,7 +20,7 @@ python smi.py
 
 1. Start `smi.py` file.
 2. Copy URL of a song, playlist, artist and album from Right-Click+Share area.
-3. Paste it to program.
+3. Paste it to terminal.
 4. Done.
 
 ## Acknowledgements
