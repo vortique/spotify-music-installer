@@ -1,0 +1,10 @@
+access-token:
+  access-token: ""
+  expiring-date: ''
+  requesting-url: https://accounts.spotify.com/api/token
+api-endpoints:
+  get-playlist-items: playlists/{playlist_id}/tracks
+  get-track: tracks/{track_id}
+client-id: "ADD YOUR CLIENT ID"
+client-secret: "ADD YOUR CLIENT SECRET"
+spotify-api-url: https://api.spotify.com/v1/
